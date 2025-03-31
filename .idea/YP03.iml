@@ -5,5 +5,15 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    git checkout -b ветка_1
+       git checkout -b ветка_2
+       git checkout -b ветка_3
+       git checkout -b ветка_4
+       git checkout -b ветка_5
+       git checkout -b ветка_6
+       git checkout -b ветка_7
+       git checkout -b ветка_8
+       git checkout -b ветка_9
+       git checkout -b ветка_10
   </component>
 </module>
